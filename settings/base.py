@@ -175,6 +175,9 @@ MINIFY_BUNDLES = {
         'marketplace': (
             'css/marketplace.less',
         ),
+        'marketplace-partners': (
+            'css/marketplace-partners.less',
+        ),
         'mission': (
             'css/sandstone/video-resp.less',
             'css/mission.less',
